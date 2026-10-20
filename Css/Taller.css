@@ -31,3 +31,8 @@ tr:hover{
     color: white;
     mouse: pointer;
 }
+H1{
+    color: #f60505;
+    font-size: 30px;
+    text-align: center;
+}
