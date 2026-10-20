@@ -1,0 +1,28 @@
+body{
+    background-image:-webkit-image-set("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoagE5SRQFWIkPrxEMGfL-2P4WuSSfyP6x2XwxIlz5A&s=10")
+}
+
+.title{
+    color: rgb(4, 64, 160);
+    font-size: 30px;
+    text-align: center;
+    border: 8px solid #f9b703;
+}
+
+.subtitle{
+    color: #f60505;
+    font-size: 24px;
+    text-align: center;
+}
+
+.table{
+    border: 2px solid #f9b703;
+    width: 100%;
+    text-align: center;
+}
+
+th:hover{
+    background-color: #f9b703;
+    color: white;
+    mouse: pointer;
+}
