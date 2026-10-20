@@ -26,3 +26,8 @@ th:hover{
     color: white;
     mouse: pointer;
 }
+tr:hover{
+    background-color: #f9b703;
+    color: white;
+    mouse: pointer;
+}
